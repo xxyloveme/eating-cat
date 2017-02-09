@@ -1,0 +1,33 @@
+body{
+	width: 100%;
+	height: 100%;
+	background: #f4f4f4;
+}
+div{
+	overflow: hidden;
+}
+.guo{
+	width: 224px;
+	height: 224px;
+	border-radius: 50%;
+	margin: 230px auto 0;
+	background: url(../img/guo.png) no-repeat center center #fff;
+}
+.content{
+	font-size: 32px;
+	color: #999;
+	text-align: center;
+	margin-top: 44px;
+}
+a{
+	display: block;
+	width: 278px;
+	height: 82px;
+	line-height: 82px;
+	font-size: 32px;
+	text-align: center;
+	color: #FFFFFF;
+	background: #F34336;
+	border-radius: 5px;
+	margin: 92px auto 0;
+}

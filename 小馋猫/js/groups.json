@@ -1,0 +1,140 @@
+[{
+    "id": 1,
+    "name": "主菜",
+    "icon": "http://dummyimage.com/64x64/ccc/333.jpg",
+    "items": [{
+        "id": 1,
+        "name": "麻婆豆腐",
+        "price": 28.00,
+        "unit": "盘",
+        "num":0,
+        "pic": "img/food-1.jpg"
+    }, {
+        "id": 2,
+        "name": "酸菜鱼",
+        "price": 58.00,
+        "unit": "碗",
+        "num":0,
+        "pic": "img/food-2.jpg"
+    },{
+        "id": 3,
+        "name": "糖醋排骨",
+        "price": 68.00,
+        "unit": "盘",
+        "num":0,
+        "pic": "img/pop06.jpg"
+    }
+    ]
+},
+{
+    "id": 2,
+    "name": "热菜",
+    "icon": "http://dummyimage.com/64x64/ccc/333.jpg",
+    "items": [{
+        "id": 4,
+        "name": "水煮肉片",
+        "price": 58.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/pop11.jpg"
+    }, {
+        "id": 5,
+        "name": "香菇炖鸡",
+        "price": 68.00,
+        "unit": "盅",
+        "num":0,
+        "pic": "img/pop19.jpg"
+    },{
+        "id": 6,
+        "name": "麻辣鱼片",
+        "price": 48.00,
+        "unit": "碗",
+        "num":0,
+        "pic": "img/pop19.jpg"
+    }
+    ]
+},
+{
+    "id": 3,
+    "name": "凉菜",
+    "icon": "http://dummyimage.com/64x64/ccc/333.jpg",
+    "items": [{
+        "id": 7,
+        "name": "凉拌莴笋",
+        "price": 28.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/head7.jpg"
+    }, {
+        "id": 8,
+        "name": "凉拌金针菇",
+        "price": 30.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/hot09.jpg"
+    },{
+        "id": 9,
+        "name": "辣白菜",
+        "price": 18.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/head6.jpg"
+    }
+    ]
+},
+{
+    "id": 4,
+    "name": "汤品",
+    "icon": "http://dummyimage.com/64x64/ccc/333.jpg",
+    "items": [{
+        "id": 10,
+        "name": "心灵鸡汤",
+        "price": 108.00,
+        "unit": "碗",
+        "num":0,
+        "pic": "img/rz02.jpg"
+    }, {
+        "id": 11,
+        "name": "佛手汤",
+        "price": 48.00,
+        "unit": "碗",
+        "num":0,
+        "pic": "img/pop10.jpg"
+    },{
+        "id": 12,
+        "name": "西红柿鸡蛋汤",
+        "price": 18.00,
+        "unit": "碗",
+        "num":0,
+        "pic": "img/rz16.jpg"
+    }
+    ]
+},
+{
+    "id": 5,
+    "name": "点心",
+    "icon": "http://dummyimage.com/64x64/ccc/333.jpg",
+    "items": [{
+        "id": 13,
+        "name": "玫瑰水信玄饼",
+        "price": 118.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/new03.jpg"
+    }, {
+        "id": 14,
+        "name": "炸翅根",
+        "price": 38.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/hot17.jpg"
+    },{
+        "id": 15,
+        "name": "榴莲饼",
+        "price": 68.00,
+        "unit": "份",
+        "num":0,
+        "pic": "img/head3.jpg"
+    }
+    ]
+}]
